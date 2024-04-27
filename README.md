@@ -10,4 +10,4 @@ From coding fundamentals to advanced techniques, this course projects collection
 
 [To Do List App](https://github.com/cyberbitrixx/Coursework/tree/99fe7607a0153b31e865c95d3c36bac2f5579806/To-Do-List-App/To-Do-List) - an app which allows you to create a personal account in app's system and keep track of tasks you need to get done. Part of getting my Swift programming language course certificate.
 
-[Little Lemon App](https://github.com/cyberbitrixx/Coursework/tree/694e58437c00ba726b6396d8dd1848242455cda7/Little%20Lemon/LittleLemon) - the final assignment of my Meta "Working With Data in iOS" course certificate. An app for a Little Lemon restaurant, which utilises Little Lemon API to fetch menu data and allows user to browse it.
+[Little Lemon App](https://github.com/cyberbitrixx/Coursework/tree/3122573a690b6a0fde39274e0fa1f07443c06431/Little%20Lemon/LittleLemon) - the final assignment of my Meta "Working With Data in iOS" course certificate. An app for a Little Lemon restaurant, which utilises Little Lemon API to fetch menu data and allows user to browse it.
